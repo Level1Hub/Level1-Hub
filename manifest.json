@@ -1,5 +1,5 @@
 {
-  "version": "0.0.4",
-  "download_url": "https://github.com/Level1Hub/Level1-Hub/releases/download/app-v0.0.4/Level1Hub.exe",
-  "changelog": "- Fixed a bug where a self-update could install a corrupted copy of the app if the download was interrupted partway through\n- Update downloads now get more time to finish on slower connections"
+  "version": "0.0.5",
+  "download_url": "https://github.com/Level1Hub/Level1-Hub/releases/download/app-v0.0.5/Level1Hub.exe",
+  "changelog": "- Fixed the update installer so it no longer launches a broken copy of the app if the downloaded file gets tampered with (e.g. by antivirus) right before installing\n- Fixed a command window sometimes briefly flashing on screen during an update"
 }
