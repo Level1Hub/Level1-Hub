@@ -1,5 +1,5 @@
 {
-  "version": "0.0.3",
-  "download_url": "https://github.com/Level1Hub/Level1-Hub/releases/download/app-v0.0.3/Level1Hub.exe",
-  "changelog": "- New Treasure Upgrade automation (pick a rank and target level)\n- Auto Jump / Auto Slide automation added, with a side-selection setting\n- Auto Jump/Slide now stop themselves at the right moment\n- Fixed Upgrade sometimes acting on the wrong item/rank\n- Upgrade runs noticeably faster now\n- Fixed dropdown menus sometimes shifting position when reopened\n- Fixed Send to Heart occasionally getting stuck instead of scrolling\n- Fixed Send to Heart sometimes stopping before Episode 1 loaded\n- General speed improvements to Send to Heart"
+  "version": "0.0.4",
+  "download_url": "https://github.com/Level1Hub/Level1-Hub/releases/download/app-v0.0.4/Level1Hub.exe",
+  "changelog": "- Fixed a bug where a self-update could install a corrupted copy of the app if the download was interrupted partway through\n- Update downloads now get more time to finish on slower connections"
 }
